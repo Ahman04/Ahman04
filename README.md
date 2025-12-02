@@ -9,7 +9,7 @@ Passionate about solving real problems with code, learning continuously, and shi
 ## 🚀 About Me  
 - 🔭 **Currently working on:** Backend systems, CLI tools & Generative AI  
 - 🌱 **Learning:** Python, System Design & Generative AI  
-- 👯 **Looking to collaborate on:** Backend projects, Front-end Generative AI  
+- 👯 **Looking to collaborate on:** Backend projects & Front-end Generative AI  
 - 💬 **Ask me about:** Python, SQLAlchemy, APIs, CLIs, Git, FastAPI, AI prompts  
 - 📫 **Reach me at:** *m.abdirahmanmohmaed.adan@gmail.com*  
 - ⚡ **Fun fact:** Clean code makes me happier than coffee ☕  
@@ -23,8 +23,8 @@ Passionate about solving real problems with code, learning continuously, and shi
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -34,18 +34,9 @@ Passionate about solving real problems with code, learning continuously, and shi
 
 ---
 
-## 🔥 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com?user=Ahman04&theme=tokyonight&hide_border=true)
-
----
-
 ## 📊 GitHub Metrics  
 ![Metrics](https://metrics.lecoq.io/Ahman04?template=classic&config.timezone=Africa%2FNairobi)
 
----
-
-## 🐍 Contribution Snake  
-![snake gif](https://github.com/Ahman04/Ahman04/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
