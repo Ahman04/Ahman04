@@ -12,6 +12,10 @@
   I design and build scalable backend systems, reliable CLI tools, and practical AI-enabled applications. I care about clean architecture, clear documentation, and shipping useful software.
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=F97316&center=true&vCenter=true&width=620&lines=Software+Engineer+%7C+Python+Developer;Backend+Systems+%26+Automation;FastAPI+%7C+Flask+%7C+PostgreSQL;AI+%26+Prompt+Engineering" />
+</p>
+
 ---
 
 ## About ✨
