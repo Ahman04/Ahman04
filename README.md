@@ -1,11 +1,20 @@
-# Abdirahman
-**Software Engineer | Python Developer | AI & Automation**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:f97316&height=180&section=header&text=Abdirahman%20Mohamed&fontSize=36&fontColor=ffffff&animation=twinkling" />
+</p>
 
-I design and build scalable backend systems, reliable CLI tools, and practical AI-enabled applications. I care about clean architecture, clear documentation, and shipping useful software.
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineer-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python%20Developer-f59e0b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%26%20Automation-22c55e?style=for-the-badge" />
+</p>
+
+<p align="center">
+  I design and build scalable backend systems, reliable CLI tools, and practical AI-enabled applications. I care about clean architecture, clear documentation, and shipping useful software.
+</p>
 
 ---
 
-## About
+## About ✨
 - **Focus:** Backend systems, APIs, and automation
 - **Currently building:** CLI tools and Generative AI projects
 - **Learning:** System design and advanced Python
@@ -15,7 +24,7 @@ I design and build scalable backend systems, reliable CLI tools, and practical A
 
 ---
 
-## AI in Practice
+## AI in Practice 🤖
 I use AI as a practical engineering tool to move faster without sacrificing quality. My focus is on reliable workflows and measurable impact.
 - **Productivity:** Rapid prototyping, brainstorming solutions, and drafting architecture notes.
 - **Development:** Generating boilerplate, refactoring suggestions, and quick code reviews.
@@ -24,7 +33,7 @@ I use AI as a practical engineering tool to move faster without sacrificing qual
 
 ---
 
-## Tech Stack
+## Tech Stack 🧰
 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -41,12 +50,20 @@ I use AI as a practical engineering tool to move faster without sacrificing qual
 
 ---
 
-## GitHub Metrics
-![Metrics](https://metrics.lecoq.io/Ahman04?template=classic&config.timezone=Africa%2FNairobi)
+## GitHub Metrics 📊
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahman04&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox" />
+  <img src="https://streak-stats.demolab.com?user=Ahman04&theme=gruvbox&hide_border=true" />
+</p>
 
 ---
 
-## Certifications & Courses
+## Contribution Snake 🐍
+![Snake animation](https://raw.githubusercontent.com/Ahman04/Ahman04/output/github-contribution-grid-snake.svg)
+
+---
+
+## Certifications & Courses 🎓
 **Diploma in Business Information Technology**  
 Issuer: Strathmore University  
 Date: December 2024  
@@ -59,7 +76,7 @@ Date: January 2026
 
 ---
 
-## Featured Projects
+## Featured Projects 🚀
 **Apartment Management System**  
 Built a full-stack system that helps landlords manage tenants, rent payments, and monthly reports in one dashboard.  
 Tech: React (Vite), Tailwind CSS, FastAPI, PostgreSQL, JWT Auth, Render, Vercel  
@@ -73,7 +90,7 @@ Repo: https://github.com/Ahman04/apartment-management-system.git
 
 ---
 
-## Connect
+## Connect 🌍
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdirahman-mohamed-9b4a5a396/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahman_.m/)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+254759473388)
