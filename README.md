@@ -1,24 +1,31 @@
-# 👋 Hi, I'm Abdirahman  
-**Software Engineer | Python Developer | AI & Automation Enthusiast**
+# Abdirahman
+**Software Engineer | Python Developer | AI & Automation**
 
-I build clean, scalable backend systems, CLI tools, and AI-powered applications.  
-Passionate about solving real problems with code, learning continuously, and shipping meaningful software.
-
----
-
-## 🚀 About Me  
-- 🔭 **Currently working on:** Backend systems, CLI tools & Generative AI  
-- 🌱 **Learning:** Python, System Design & Generative AI  
-- 👯 **Looking to collaborate on:** Backend projects & Front-end Generative AI  
-- 💬 **Ask me about:** Python, SQLAlchemy, APIs, CLIs, Git, FastAPI, AI prompts  
-- 📫 **Reach me at:** *m.abdirahmanmohmaed.adan@gmail.com*  
-- ⚡ **Fun fact:** Clean code makes me happier than coffee ☕  
+I design and build scalable backend systems, reliable CLI tools, and practical AI-enabled applications. I care about clean architecture, clear documentation, and shipping useful software.
 
 ---
 
-## 🛠️ Tech Stack  
+## About
+- **Focus:** Backend systems, APIs, and automation
+- **Currently building:** CLI tools and Generative AI projects
+- **Learning:** System design and advanced Python
+- **Open to:** Backend collaborations and AI-driven products
+- **Ask me about:** Python, SQLAlchemy, APIs, FastAPI, Git, and prompt design
+- **Contact:** `m.abdirahmanmohmaed.adan@gmail.com`
 
-### **Languages & Frameworks**
+---
+
+## AI in Practice
+I use AI as a practical engineering tool to move faster without sacrificing quality. My focus is on reliable workflows and measurable impact.
+- **Productivity:** Rapid prototyping, brainstorming solutions, and drafting architecture notes.
+- **Development:** Generating boilerplate, refactoring suggestions, and quick code reviews.
+- **Quality:** Test case ideas, edge-case analysis, and documentation improvements.
+- **Automation:** CLI scripts and AI-powered helpers that reduce repetitive tasks.
+
+---
+
+## Tech Stack
+**Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -26,7 +33,7 @@ Passionate about solving real problems with code, learning continuously, and shi
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **Tools**
+**Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -34,15 +41,41 @@ Passionate about solving real problems with code, learning continuously, and shi
 
 ---
 
-## 📊 GitHub Metrics  
+## GitHub Metrics
 ![Metrics](https://metrics.lecoq.io/Ahman04?template=classic&config.timezone=Africa%2FNairobi)
-
 
 ---
 
-## 🤝 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdirahman-mohamed-9b4a5a396/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahman_.m/)  
+## Certifications & Courses
+**Diploma in Business Information Technology**  
+Issuer: Strathmore University  
+Date: December 2024  
+[Certificate (PDF)](assets/certificates/Strathmore-DBIT.pdf)
+
+**Artificial Intelligence**  
+Issuer: Moringa School  
+Date: January 2026  
+[Certificate (PDF)](assets/certificates/abdirahman-mohamed_certificate.pdf)
+
+---
+
+## Featured Projects
+**Apartment Management System**  
+Built a full-stack system that helps landlords manage tenants, rent payments, and monthly reports in one dashboard.  
+Tech: React (Vite), Tailwind CSS, FastAPI, PostgreSQL, JWT Auth, Render, Vercel  
+Repo: https://github.com/Ahman04/Digital-Library-Management-System.git  
+Demo: Coming soon
+
+**Digital Library Management System**  
+Developed a role-based library platform for managing books, categories, and borrowing workflows with admin and member access.  
+Tech: React, Tailwind CSS, Flask / FastAPI, SQLAlchemy, PostgreSQL, JWT  
+Repo: https://github.com/Ahman04/apartment-management-system.git
+
+---
+
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdirahman-mohamed-9b4a5a396/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahman_.m/)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+254759473388)
 
 ---
