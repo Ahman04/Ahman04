@@ -86,15 +86,34 @@ Date: January 2026
 
 ## Featured Projects 🚀
 **Apartment Management System**  
-Built a full-stack system that helps landlords manage tenants, rent payments, and monthly reports in one dashboard.  
-Tech: React (Vite), Tailwind CSS, FastAPI, PostgreSQL, JWT Auth, Render, Vercel  
-Repo: https://github.com/Ahman04/Digital-Library-Management-System.git  
-Demo: Coming soon
+GitHub: https://github.com/Ahman04/apartment-management-system  
+Live demo: [Video demo (WEBM)](./apartmentmanagement.webm)  
+Brief: Full-stack rental/property management system replacing manual Excel workflows.
+
+**GLOBEVISTA Adventure Ltd Website**  
+GitHub: https://github.com/Ahman04/globevista-website.git  
+Live demo: https://globevista-website.vercel.app/  
+Brief: Premium multi-page corporate travel website with a polished black-gold brand style.
+
+**MyDuka - Inventory and Reporting System**  
+GitHub: https://github.com/Ahman04/MYDUKA.git  
+Live demo: https://myduka-virid.vercel.app/  
+Brief: Role-based inventory/procurement reporting app for merchants, admins, and clerks.
 
 **Digital Library Management System**  
-Developed a role-based library platform for managing books, categories, and borrowing workflows with admin and member access.  
-Tech: React, Tailwind CSS, Flask / FastAPI, SQLAlchemy, PostgreSQL, JWT  
-Repo: https://github.com/Ahman04/apartment-management-system.git
+GitHub: https://github.com/Ahman04/Digital-Library-Management-System  
+Live demo: https://digital-library-management-system-two.vercel.app/  
+Brief: Full-stack library platform for books, categories, and borrowing workflows.
+
+**AutoSpare Hub**  
+GitHub: https://github.com/Ahman04/Autospare-hub  
+Live demo: https://autospare-hub-indol.vercel.app/  
+Brief: Frontend SPA simulating an online spare-parts store.
+
+**The Synergy Circle - Event & Community Platform**  
+GitHub: https://github.com/Ahman04/synergy-circle-hub.git  
+Live demo: https://synergy-circle-hub.vercel.app/  
+Brief: Mobile-first events/community platform with discovery, registration flows, and admin operations.
 
 ---
 
